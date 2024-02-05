@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Konecta
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on diseño web
@@ -9,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: MP en esta red
 - 😄 Pronouns: defrentemall
 - ⚡ Fun fact: estoy inciando en esto
-
